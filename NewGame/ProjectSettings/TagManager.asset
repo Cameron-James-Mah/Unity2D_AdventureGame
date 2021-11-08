@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Knight1Text
+  - Doorway
+  - Event
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - solidObjects
+  - Player
+  - Slime
+  - NPC
+  - Projectile
+  - Bomb
+  - Trap
+  - Goblin1
+  - Goblin2
+  - Worm
+  - Skeleton
+  - Orc1
+  - Orc2
+  - Statue
+  - Minotaur
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 369979055
+    locked: 0
+  - name: Foreground
+    uniqueID: 2200590527
+    locked: 0
+  - name: Player
+    uniqueID: 160540405
+    locked: 0
+  - name: NPC
+    uniqueID: 2378202855
+    locked: 0
+  - name: UI
+    uniqueID: 3860496655
+    locked: 0
+  - name: ShopUI
+    uniqueID: 3811813517
+    locked: 0
+  - name: MenuUI
+    uniqueID: 1758911147
+    locked: 0

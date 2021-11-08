@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: e6b9670c70a92b94b8f0e10ff94b71bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5395274610025930129
+    second: eyeball spritesheet_0
+  - first:
+      213: 6990758801913819283
+    second: eyeball spritesheet_1
+  - first:
+      213: 4823793975269185415
+    second: eyeball spritesheet_2
+  - first:
+      213: 7430778480014672858
+    second: eyeball spritesheet_3
+  - first:
+      213: 4721149601826080397
+    second: eyeball spritesheet_4
+  - first:
+      213: 4521666245936609930
+    second: eyeball spritesheet_5
+  - first:
+      213: 5306222888648007730
+    second: eyeball spritesheet_6
+  - first:
+      213: 1562251074904408580
+    second: eyeball spritesheet_7
+  - first:
+      213: 1726018604929073087
+    second: eyeball spritesheet_8
+  - first:
+      213: 6809418957999826259
+    second: eyeball spritesheet_9
+  - first:
+      213: 1235314427551204242
+    second: eyeball spritesheet_10
+  - first:
+      213: -6571891933340501648
+    second: eyeball spritesheet_11
+  - first:
+      213: 2610695894262158572
+    second: eyeball spritesheet_12
+  - first:
+      213: 2974414467549097539
+    second: eyeball spritesheet_13
+  - first:
+      213: -5653938796965035034
+    second: eyeball spritesheet_14
+  - first:
+      213: 421629261298553834
+    second: eyeball spritesheet_15
+  - first:
+      213: 4563755229050158616
+    second: eyeball spritesheet_16
+  - first:
+      213: -5743620730942191946
+    second: eyeball spritesheet_17
+  - first:
+      213: -1744231428227863325
+    second: eyeball spritesheet_18
+  - first:
+      213: -4930168502947977090
+    second: eyeball spritesheet_19
+  - first:
+      213: -8066614886774924453
+    second: eyeball spritesheet_20
+  - first:
+      213: 3276124894717812112
+    second: eyeball spritesheet_21
+  - first:
+      213: -5998069820941561732
+    second: eyeball spritesheet_22
+  - first:
+      213: -1585829346904872553
+    second: eyeball spritesheet_23
+  - first:
+      213: 7811391417115825088
+    second: eyeball spritesheet_24
+  - first:
+      213: -1328249306844674865
+    second: eyeball spritesheet_25
+  - first:
+      213: -1898394982742701754
+    second: eyeball spritesheet_26
+  - first:
+      213: -3608312967698069633
+    second: eyeball spritesheet_27
+  - first:
+      213: 3268822372630973581
+    second: eyeball spritesheet_28
+  - first:
+      213: -3518373483517147625
+    second: eyeball spritesheet_29
+  - first:
+      213: 8498285474377132760
+    second: eyeball spritesheet_30
+  - first:
+      213: -7005805040311350823
+    second: eyeball spritesheet_31
+  - first:
+      213: -3349506301337417844
+    second: eyeball spritesheet_32
+  - first:
+      213: -4289017198486869501
+    second: eyeball spritesheet_33
+  - first:
+      213: 4187239546712516962
+    second: eyeball spritesheet_34
+  - first:
+      213: 7925192376009063571
+    second: eyeball spritesheet_35
+  - first:
+      213: -5262021712743782019
+    second: eyeball spritesheet_36
+  - first:
+      213: 6551417527628042047
+    second: eyeball spritesheet_37
+  - first:
+      213: -7790856895105713205
+    second: eyeball spritesheet_38
+  - first:
+      213: -1656989794416376647
+    second: eyeball spritesheet_39
+  - first:
+      213: -3180109228234914824
+    second: eyeball spritesheet_40
+  - first:
+      213: -3800533161668937134
+    second: eyeball spritesheet_41
+  - first:
+      213: 5442161539426256383
+    second: eyeball spritesheet_42
+  - first:
+      213: 419626705891048259
+    second: eyeball spritesheet_43
+  - first:
+      213: 4305887390291570110
+    second: eyeball spritesheet_44
+  - first:
+      213: 8781294095574104933
+    second: eyeball spritesheet_45
+  - first:
+      213: -4489293462020504025
+    second: eyeball spritesheet_46
+  - first:
+      213: 6402799433613549376
+    second: eyeball spritesheet_47
+  - first:
+      213: -1878413742044627679
+    second: eyeball spritesheet_48
+  - first:
+      213: -8165525490940462136
+    second: eyeball spritesheet_49
+  - first:
+      213: -1032180623871631680
+    second: eyeball spritesheet_50
+  - first:
+      213: -4336838117940485981
+    second: eyeball spritesheet_51
+  - first:
+      213: 1265597858000936331
+    second: eyeball spritesheet_52
+  - first:
+      213: -8988566114662476444
+    second: eyeball spritesheet_53
+  - first:
+      213: -5691202792946734235
+    second: eyeball spritesheet_54
+  - first:
+      213: 3305178694147733164
+    second: eyeball spritesheet_55
+  - first:
+      213: 6842684102685465435
+    second: eyeball spritesheet_56
+  - first:
+      213: -5549287633033707316
+    second: eyeball spritesheet_57
+  - first:
+      213: -5275537921839280680
+    second: eyeball spritesheet_58
+  - first:
+      213: 7175024108775647540
+    second: eyeball spritesheet_59
+  - first:
+      213: -1038700778803180637
+    second: eyeball spritesheet_60
+  - first:
+      213: -7348757254297909399
+    second: eyeball spritesheet_61
+  - first:
+      213: -689018259701592358
+    second: eyeball spritesheet_62
+  - first:
+      213: -7965483404061845278
+    second: eyeball spritesheet_63
+  - first:
+      213: 4697477583990651361
+    second: eyeball spritesheet_64
+  - first:
+      213: 4789404582113910742
+    second: eyeball spritesheet_65
+  - first:
+      213: -5164442845437960572
+    second: eyeball spritesheet_66
+  - first:
+      213: -1182249753053294559
+    second: eyeball spritesheet_67
+  - first:
+      213: -2843051297657611656
+    second: eyeball spritesheet_68
+  - first:
+      213: -2661035592243209661
+    second: eyeball spritesheet_69
+  - first:
+      213: 3322868594106138287
+    second: eyeball spritesheet_70
+  - first:
+      213: -3477401975626071785
+    second: eyeball spritesheet_71
+  - first:
+      213: 373338843599632451
+    second: eyeball spritesheet_72
+  - first:
+      213: 1343319671462550850
+    second: eyeball spritesheet_73
+  - first:
+      213: -3907479659874445277
+    second: eyeball spritesheet_74
+  - first:
+      213: 4707408496848531875
+    second: eyeball spritesheet_75
+  - first:
+      213: 4328355359254425221
+    second: eyeball spritesheet_76
+  - first:
+      213: -2947253366043354554
+    second: eyeball spritesheet_77
+  - first:
+      213: -8450831547970139873
+    second: eyeball spritesheet_78
+  - first:
+      213: -5397768716680619417
+    second: eyeball spritesheet_79
+  - first:
+      213: 5699934951905822342
+    second: eyeball spritesheet_80
+  - first:
+      213: -909266251392144235
+    second: eyeball spritesheet_81
+  - first:
+      213: 6241133278036892869
+    second: eyeball spritesheet_82
+  - first:
+      213: -5126453715426881319
+    second: eyeball spritesheet_83
+  - first:
+      213: -3819350570024814762
+    second: eyeball spritesheet_84
+  - first:
+      213: -4161559668463894483
+    second: eyeball spritesheet_85
+  - first:
+      213: 7570952462553788443
+    second: eyeball spritesheet_86
+  - first:
+      213: -6766590478373572289
+    second: eyeball spritesheet_87
+  - first:
+      213: 6501088375982168957
+    second: eyeball spritesheet_88
+  - first:
+      213: 5673060558165613104
+    second: eyeball spritesheet_89
+  - first:
+      213: -5544970818715130635
+    second: eyeball spritesheet_90
+  - first:
+      213: 8208526375750645084
+    second: eyeball spritesheet_91
+  - first:
+      213: -1025825585673810962
+    second: eyeball spritesheet_92
+  - first:
+      213: -5827724885658838903
+    second: eyeball spritesheet_93
+  - first:
+      213: 3775968943757324422
+    second: eyeball spritesheet_94
+  - first:
+      213: 6144073502045224535
+    second: eyeball spritesheet_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eyeball spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6268bbd3522025b0800000000000000
+      internalID: -5395274610025930129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390328a771a240160800000000000000
+      internalID: 6990758801913819283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d69d101f81f240800000000000000
+      internalID: 4823793975269185415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad344e958ad6f1760800000000000000
+      internalID: 7430778480014672858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8602549c84e48140800000000000000
+      internalID: 4721149601826080397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8afced6e7f20ce30800000000000000
+      internalID: 4521666245936609930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23069e88a9d73a940800000000000000
+      internalID: 5306222888648007730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40246a1531b3ea510800000000000000
+      internalID: 1562251074904408580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf338eb6cc04f710800000000000000
+      internalID: 1726018604929073087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e366e67aef7e50800000000000000
+      internalID: 6809418957999826259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293ca184de7b42110800000000000000
+      internalID: 1235314427551204242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079fbf22b13fbc4a0800000000000000
+      internalID: -6571891933340501648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce41112751e0b3420800000000000000
+      internalID: 2610695894262158572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eeb09f23e374920800000000000000
+      internalID: 2974414467549097539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e38919be9c2981b0800000000000000
+      internalID: -5653938796965035034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35c9a449de9d500800000000000000
+      internalID: 421629261298553834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ebd557337b55f30800000000000000
+      internalID: 4563755229050158616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b60f9f406f8a40b0800000000000000
+      internalID: -5743620730942191946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ece762e1ce3bc7e0800000000000000
+      internalID: -1744231428227863325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7867f22ed5849bb0800000000000000
+      internalID: -4930168502947977090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b17edcf70ad0090800000000000000
+      internalID: -8066614886774924453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d187deb32277d20800000000000000
+      internalID: 3276124894717812112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7099c8e64392cca0800000000000000
+      internalID: -5998069820941561732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799685f6c900ef9e0800000000000000
+      internalID: -1585829346904872553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

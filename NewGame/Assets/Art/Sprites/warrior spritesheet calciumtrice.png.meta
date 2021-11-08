@@ -1,0 +1,3116 @@
+fileFormatVersion: 2
+guid: d4b5bd2eb57318843a6c59ccf2b3167a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2900137482363611059
+    second: warrior spritesheet calciumtrice_0
+  - first:
+      213: 8533636594776629765
+    second: warrior spritesheet calciumtrice_1
+  - first:
+      213: 4804629367864813355
+    second: warrior spritesheet calciumtrice_2
+  - first:
+      213: -3433764350709442224
+    second: warrior spritesheet calciumtrice_3
+  - first:
+      213: 1885031109930603459
+    second: warrior spritesheet calciumtrice_4
+  - first:
+      213: 6693132669330373716
+    second: warrior spritesheet calciumtrice_5
+  - first:
+      213: 5445051598798892338
+    second: warrior spritesheet calciumtrice_6
+  - first:
+      213: 5536373816066763188
+    second: warrior spritesheet calciumtrice_7
+  - first:
+      213: -2065459684962255573
+    second: warrior spritesheet calciumtrice_8
+  - first:
+      213: -3157174628570742835
+    second: warrior spritesheet calciumtrice_9
+  - first:
+      213: -5579810180633316240
+    second: warrior spritesheet calciumtrice_10
+  - first:
+      213: 1584155307436288359
+    second: warrior spritesheet calciumtrice_11
+  - first:
+      213: 4846943672539594978
+    second: warrior spritesheet calciumtrice_12
+  - first:
+      213: 5737135289400818409
+    second: warrior spritesheet calciumtrice_13
+  - first:
+      213: -7144792187477250496
+    second: warrior spritesheet calciumtrice_14
+  - first:
+      213: -1647316036767415525
+    second: warrior spritesheet calciumtrice_15
+  - first:
+      213: 7145630697051378344
+    second: warrior spritesheet calciumtrice_16
+  - first:
+      213: -5250231851069730536
+    second: warrior spritesheet calciumtrice_17
+  - first:
+      213: -5093252322547403807
+    second: warrior spritesheet calciumtrice_18
+  - first:
+      213: 6954277982765459029
+    second: warrior spritesheet calciumtrice_19
+  - first:
+      213: -3067761172138467021
+    second: warrior spritesheet calciumtrice_20
+  - first:
+      213: 2414796843154906723
+    second: warrior spritesheet calciumtrice_21
+  - first:
+      213: -39621850436564554
+    second: warrior spritesheet calciumtrice_22
+  - first:
+      213: -6845176114187402756
+    second: warrior spritesheet calciumtrice_23
+  - first:
+      213: 2085463406599531059
+    second: warrior spritesheet calciumtrice_24
+  - first:
+      213: -126553315230322494
+    second: warrior spritesheet calciumtrice_25
+  - first:
+      213: -1890448426994622573
+    second: warrior spritesheet calciumtrice_26
+  - first:
+      213: -5824934811829111772
+    second: warrior spritesheet calciumtrice_27
+  - first:
+      213: -6645843045464997336
+    second: warrior spritesheet calciumtrice_28
+  - first:
+      213: 3944172152432268052
+    second: warrior spritesheet calciumtrice_29
+  - first:
+      213: 3870465013358227540
+    second: warrior spritesheet calciumtrice_30
+  - first:
+      213: 7071135164061678272
+    second: warrior spritesheet calciumtrice_31
+  - first:
+      213: -3056980644035406406
+    second: warrior spritesheet calciumtrice_32
+  - first:
+      213: -2288846087416675404
+    second: warrior spritesheet calciumtrice_33
+  - first:
+      213: 992056382944218486
+    second: warrior spritesheet calciumtrice_34
+  - first:
+      213: -7555952931944508691
+    second: warrior spritesheet calciumtrice_35
+  - first:
+      213: 2270017912779085633
+    second: warrior spritesheet calciumtrice_36
+  - first:
+      213: -3647098634570179435
+    second: warrior spritesheet calciumtrice_37
+  - first:
+      213: 3200028134351047244
+    second: warrior spritesheet calciumtrice_38
+  - first:
+      213: -1981526480851607471
+    second: warrior spritesheet calciumtrice_39
+  - first:
+      213: 9162765327628274755
+    second: warrior spritesheet calciumtrice_40
+  - first:
+      213: -1053060981796124084
+    second: warrior spritesheet calciumtrice_41
+  - first:
+      213: 7326818370486297857
+    second: warrior spritesheet calciumtrice_42
+  - first:
+      213: -7709078408007666904
+    second: warrior spritesheet calciumtrice_43
+  - first:
+      213: -8348044159827163810
+    second: warrior spritesheet calciumtrice_44
+  - first:
+      213: -5760722859861156863
+    second: warrior spritesheet calciumtrice_45
+  - first:
+      213: -4170624018961549396
+    second: warrior spritesheet calciumtrice_46
+  - first:
+      213: -4805845361692065571
+    second: warrior spritesheet calciumtrice_47
+  - first:
+      213: 3010313993203464969
+    second: warrior spritesheet calciumtrice_48
+  - first:
+      213: 8622730896651176274
+    second: warrior spritesheet calciumtrice_49
+  - first:
+      213: -3218375782788562643
+    second: warrior spritesheet calciumtrice_50
+  - first:
+      213: -3667463496585778116
+    second: warrior spritesheet calciumtrice_51
+  - first:
+      213: -6467561787910644650
+    second: warrior spritesheet calciumtrice_52
+  - first:
+      213: 8106812329716018287
+    second: warrior spritesheet calciumtrice_53
+  - first:
+      213: 2716626390341605498
+    second: warrior spritesheet calciumtrice_54
+  - first:
+      213: 2831129721788064225
+    second: warrior spritesheet calciumtrice_55
+  - first:
+      213: -7478618835707938006
+    second: warrior spritesheet calciumtrice_56
+  - first:
+      213: 8383659980089089767
+    second: warrior spritesheet calciumtrice_57
+  - first:
+      213: 2562288579305173070
+    second: warrior spritesheet calciumtrice_58
+  - first:
+      213: 5716986091578023491
+    second: warrior spritesheet calciumtrice_59
+  - first:
+      213: -2748799553225718521
+    second: warrior spritesheet calciumtrice_60
+  - first:
+      213: 392750752504937654
+    second: warrior spritesheet calciumtrice_61
+  - first:
+      213: 8184329975568343286
+    second: warrior spritesheet calciumtrice_62
+  - first:
+      213: -4147968880447084555
+    second: warrior spritesheet calciumtrice_63
+  - first:
+      213: 9164163499255304042
+    second: warrior spritesheet calciumtrice_64
+  - first:
+      213: -1060767274830670673
+    second: warrior spritesheet calciumtrice_65
+  - first:
+      213: -695164180424848813
+    second: warrior spritesheet calciumtrice_66
+  - first:
+      213: 5761042729387490130
+    second: warrior spritesheet calciumtrice_67
+  - first:
+      213: 6373145424796338260
+    second: warrior spritesheet calciumtrice_68
+  - first:
+      213: -7160115433382520097
+    second: warrior spritesheet calciumtrice_69
+  - first:
+      213: 5425797921671343356
+    second: warrior spritesheet calciumtrice_70
+  - first:
+      213: -4565556175545871358
+    second: warrior spritesheet calciumtrice_71
+  - first:
+      213: 8050189529277428336
+    second: warrior spritesheet calciumtrice_72
+  - first:
+      213: -8185194946676155033
+    second: warrior spritesheet calciumtrice_73
+  - first:
+      213: -7065824442528030521
+    second: warrior spritesheet calciumtrice_74
+  - first:
+      213: 1929473750126561349
+    second: warrior spritesheet calciumtrice_75
+  - first:
+      213: 483435861920552761
+    second: warrior spritesheet calciumtrice_76
+  - first:
+      213: -2935585933266842643
+    second: warrior spritesheet calciumtrice_77
+  - first:
+      213: -2801474929652893648
+    second: warrior spritesheet calciumtrice_78
+  - first:
+      213: -3015141961212711986
+    second: warrior spritesheet calciumtrice_79
+  - first:
+      213: 687054152557546612
+    second: warrior spritesheet calciumtrice_80
+  - first:
+      213: 4582466870042392311
+    second: warrior spritesheet calciumtrice_81
+  - first:
+      213: 3446355302456879900
+    second: warrior spritesheet calciumtrice_82
+  - first:
+      213: 2420412041799994882
+    second: warrior spritesheet calciumtrice_83
+  - first:
+      213: 4286863871399561121
+    second: warrior spritesheet calciumtrice_84
+  - first:
+      213: -8608313356028308652
+    second: warrior spritesheet calciumtrice_85
+  - first:
+      213: 4235205237325154030
+    second: warrior spritesheet calciumtrice_86
+  - first:
+      213: -1768763557831549241
+    second: warrior spritesheet calciumtrice_87
+  - first:
+      213: -7698128475534833945
+    second: warrior spritesheet calciumtrice_88
+  - first:
+      213: 8628765066649560409
+    second: warrior spritesheet calciumtrice_89
+  - first:
+      213: -251100857767145776
+    second: warrior spritesheet calciumtrice_90
+  - first:
+      213: 583742802904108466
+    second: warrior spritesheet calciumtrice_91
+  - first:
+      213: -8997925782648263562
+    second: warrior spritesheet calciumtrice_92
+  - first:
+      213: 1264352197624045526
+    second: warrior spritesheet calciumtrice_93
+  - first:
+      213: 768751155216660266
+    second: warrior spritesheet calciumtrice_94
+  - first:
+      213: 5620058996024477795
+    second: warrior spritesheet calciumtrice_95
+  - first:
+      213: -7769086847184312799
+    second: warrior spritesheet calciumtrice_96
+  - first:
+      213: -5586175749117177442
+    second: warrior spritesheet calciumtrice_97
+  - first:
+      213: -267812898395602020
+    second: warrior spritesheet calciumtrice_98
+  - first:
+      213: 7914846807876650231
+    second: warrior spritesheet calciumtrice_99
+  - first:
+      213: 6910598993069757982
+    second: warrior spritesheet calciumtrice_100
+  - first:
+      213: 2158185556413612634
+    second: warrior spritesheet calciumtrice_101
+  - first:
+      213: -1799556462541085509
+    second: warrior spritesheet calciumtrice_102
+  - first:
+      213: -3608550531341530333
+    second: warrior spritesheet calciumtrice_103
+  - first:
+      213: -8683608144073262726
+    second: warrior spritesheet calciumtrice_104
+  - first:
+      213: 5979289346381287102
+    second: warrior spritesheet calciumtrice_105
+  - first:
+      213: 272667229708443080
+    second: warrior spritesheet calciumtrice_106
+  - first:
+      213: 6816325808515142245
+    second: warrior spritesheet calciumtrice_107
+  - first:
+      213: -4374451957521833614
+    second: warrior spritesheet calciumtrice_108
+  - first:
+      213: 3370198515153492762
+    second: warrior spritesheet calciumtrice_109
+  - first:
+      213: -7877521142813913468
+    second: warrior spritesheet calciumtrice_110
+  - first:
+      213: 2872076233777239426
+    second: warrior spritesheet calciumtrice_111
+  - first:
+      213: 5671379893593449337
+    second: warrior spritesheet calciumtrice_112
+  - first:
+      213: 1611454198441608437
+    second: warrior spritesheet calciumtrice_113
+  - first:
+      213: -5388973565144189416
+    second: warrior spritesheet calciumtrice_114
+  - first:
+      213: -2478402787988992770
+    second: warrior spritesheet calciumtrice_115
+  - first:
+      213: 2377874539946588579
+    second: warrior spritesheet calciumtrice_116
+  - first:
+      213: 8161807249906207728
+    second: warrior spritesheet calciumtrice_117
+  - first:
+      213: 4661880691313661483
+    second: warrior spritesheet calciumtrice_118
+  - first:
+      213: -4441879476781245288
+    second: warrior spritesheet calciumtrice_119
+  - first:
+      213: 1489746928356320469
+    second: warrior spritesheet calciumtrice_120
+  - first:
+      213: -6317588430523891011
+    second: warrior spritesheet calciumtrice_121
+  - first:
+      213: -4557612420481426105
+    second: warrior spritesheet calciumtrice_122
+  - first:
+      213: 5024177056197247132
+    second: warrior spritesheet calciumtrice_123
+  - first:
+      213: -3623950437580373329
+    second: warrior spritesheet calciumtrice_124
+  - first:
+      213: 1595115927376255072
+    second: warrior spritesheet calciumtrice_125
+  - first:
+      213: -4818294913798756507
+    second: warrior spritesheet calciumtrice_126
+  - first:
+      213: -2209440991801538269
+    second: warrior spritesheet calciumtrice_127
+  - first:
+      213: 2199149175704710836
+    second: warrior spritesheet calciumtrice_128
+  - first:
+      213: 1604053775226490448
+    second: warrior spritesheet calciumtrice_129
+  - first:
+      213: -7223803950556134222
+    second: warrior spritesheet calciumtrice_130
+  - first:
+      213: 832333299908233660
+    second: warrior spritesheet calciumtrice_131
+  - first:
+      213: -7943670044697335600
+    second: warrior spritesheet calciumtrice_132
+  - first:
+      213: -1592094027352342674
+    second: warrior spritesheet calciumtrice_133
+  - first:
+      213: 4967327108485942239
+    second: warrior spritesheet calciumtrice_134
+  - first:
+      213: 7634019697150205973
+    second: warrior spritesheet calciumtrice_135
+  - first:
+      213: 4792736976677152034
+    second: warrior spritesheet calciumtrice_136
+  - first:
+      213: 2899514737731996035
+    second: warrior spritesheet calciumtrice_137
+  - first:
+      213: -1873222008184222254
+    second: warrior spritesheet calciumtrice_138
+  - first:
+      213: -1988398257670025739
+    second: warrior spritesheet calciumtrice_139
+  - first:
+      213: -5530042921785473579
+    second: warrior spritesheet calciumtrice_140
+  - first:
+      213: -470089034022007332
+    second: warrior spritesheet calciumtrice_141
+  - first:
+      213: 8600177289708990224
+    second: warrior spritesheet calciumtrice_142
+  - first:
+      213: -2238108180190764211
+    second: warrior spritesheet calciumtrice_143
+  - first:
+      213: 133005436155930610
+    second: warrior spritesheet calciumtrice_144
+  - first:
+      213: 2907769416651707759
+    second: warrior spritesheet calciumtrice_145
+  - first:
+      213: -1407422443079640903
+    second: warrior spritesheet calciumtrice_146
+  - first:
+      213: -9161820116031813987
+    second: warrior spritesheet calciumtrice_147
+  - first:
+      213: 1427916399344558382
+    second: warrior spritesheet calciumtrice_148
+  - first:
+      213: 9097122392807467174
+    second: warrior spritesheet calciumtrice_149
+  - first:
+      213: 1151242847861479092
+    second: warrior spritesheet calciumtrice_150
+  - first:
+      213: -5627763103623850777
+    second: warrior spritesheet calciumtrice_151
+  - first:
+      213: -2527101527026862314
+    second: warrior spritesheet calciumtrice_152
+  - first:
+      213: -3354485495098806272
+    second: warrior spritesheet calciumtrice_153
+  - first:
+      213: 1818186839863104776
+    second: warrior spritesheet calciumtrice_154
+  - first:
+      213: 5808805021801805462
+    second: warrior spritesheet calciumtrice_155
+  - first:
+      213: -4084025798648464521
+    second: warrior spritesheet calciumtrice_156
+  - first:
+      213: -296650686803667652
+    second: warrior spritesheet calciumtrice_157
+  - first:
+      213: -5896088733671153780
+    second: warrior spritesheet calciumtrice_158
+  - first:
+      213: 9163750590724173071
+    second: warrior spritesheet calciumtrice_159
+  - first:
+      213: -9217725496909327839
+    second: warrior spritesheet calciumtrice_160
+  - first:
+      213: 7866533121802408485
+    second: warrior spritesheet calciumtrice_161
+  - first:
+      213: -2823141327722812779
+    second: warrior spritesheet calciumtrice_162
+  - first:
+      213: -5958564207033199039
+    second: warrior spritesheet calciumtrice_163
+  - first:
+      213: 7192934767647962504
+    second: warrior spritesheet calciumtrice_164
+  - first:
+      213: -1143531258337520962
+    second: warrior spritesheet calciumtrice_165
+  - first:
+      213: -8063604535428725208
+    second: warrior spritesheet calciumtrice_166
+  - first:
+      213: 8372387307421407847
+    second: warrior spritesheet calciumtrice_167
+  - first:
+      213: -5448466755676956855
+    second: warrior spritesheet calciumtrice_168
+  - first:
+      213: -4193425492894294627
+    second: warrior spritesheet calciumtrice_169
+  - first:
+      213: -3947685032572763335
+    second: warrior spritesheet calciumtrice_170
+  - first:
+      213: 5317057328581293098
+    second: warrior spritesheet calciumtrice_171
+  - first:
+      213: 2149144638822440447
+    second: warrior spritesheet calciumtrice_172
+  - first:
+      213: -4180041277206447874
+    second: warrior spritesheet calciumtrice_173
+  - first:
+      213: -984666531011598388
+    second: warrior spritesheet calciumtrice_174
+  - first:
+      213: -3487727841150052457
+    second: warrior spritesheet calciumtrice_175
+  - first:
+      213: 3978773571500691740
+    second: warrior spritesheet calciumtrice_176
+  - first:
+      213: -1333403377643835546
+    second: warrior spritesheet calciumtrice_177
+  - first:
+      213: 6069824456197549663
+    second: warrior spritesheet calciumtrice_178
+  - first:
+      213: 6924897398706232918
+    second: warrior spritesheet calciumtrice_179
+  - first:
+      213: -1056804066756686274
+    second: warrior spritesheet calciumtrice_180
+  - first:
+      213: -2225535298041007239
+    second: warrior spritesheet calciumtrice_181
+  - first:
+      213: 6296832668372404136
+    second: warrior spritesheet calciumtrice_182
+  - first:
+      213: 5070274762785290984
+    second: warrior spritesheet calciumtrice_183
+  - first:
+      213: 8633320020072113321
+    second: warrior spritesheet calciumtrice_184
+  - first:
+      213: 2386262606754997171
+    second: warrior spritesheet calciumtrice_185
+  - first:
+      213: 7941007132188337124
+    second: warrior spritesheet calciumtrice_186
+  - first:
+      213: -8916156022727527470
+    second: warrior spritesheet calciumtrice_187
+  - first:
+      213: 1183417064102996328
+    second: warrior spritesheet calciumtrice_188
+  - first:
+      213: -1333622302772415388
+    second: warrior spritesheet calciumtrice_189
+  - first:
+      213: -6089566642111279968
+    second: warrior spritesheet calciumtrice_190
+  - first:
+      213: -915257263647624790
+    second: warrior spritesheet calciumtrice_191
+  - first:
+      213: 7337139194152566703
+    second: warrior spritesheet calciumtrice_192
+  - first:
+      213: 5080037039174584895
+    second: warrior spritesheet calciumtrice_193
+  - first:
+      213: -1317539598318415757
+    second: warrior spritesheet calciumtrice_194
+  - first:
+      213: -584079089777883872
+    second: warrior spritesheet calciumtrice_195
+  - first:
+      213: -4713240481719252929
+    second: warrior spritesheet calciumtrice_196
+  - first:
+      213: -7572491975912321381
+    second: warrior spritesheet calciumtrice_197
+  - first:
+      213: 2729195416542348119
+    second: warrior spritesheet calciumtrice_198
+  - first:
+      213: 3756742237208954165
+    second: warrior spritesheet calciumtrice_199
+  - first:
+      213: 1570058864064535191
+    second: warrior spritesheet calciumtrice_0
+  - first:
+      213: 8312206418622324566
+    second: warrior spritesheet calciumtrice_1
+  - first:
+      213: -1672382415994290955
+    second: warrior spritesheet calciumtrice_2
+  - first:
+      213: 4100539706028141669
+    second: warrior spritesheet calciumtrice_3
+  - first:
+      213: 2978356698008881064
+    second: warrior spritesheet calciumtrice_4
+  - first:
+      213: 4943175321508800928
+    second: warrior spritesheet calciumtrice_5
+  - first:
+      213: -5493494130106992824
+    second: warrior spritesheet calciumtrice_6
+  - first:
+      213: 2420036683295524263
+    second: warrior spritesheet calciumtrice_7
+  - first:
+      213: 9105669728226687097
+    second: warrior spritesheet calciumtrice_8
+  - first:
+      213: 6526427946880074273
+    second: warrior spritesheet calciumtrice_9
+  - first:
+      213: 8880441507207148305
+    second: warrior spritesheet calciumtrice_10
+  - first:
+      213: 106857492245194542
+    second: warrior spritesheet calciumtrice_11
+  - first:
+      213: -6549994511974088665
+    second: warrior spritesheet calciumtrice_12
+  - first:
+      213: -5053353268995624719
+    second: warrior spritesheet calciumtrice_13
+  - first:
+      213: 7215431042098400204
+    second: warrior spritesheet calciumtrice_14
+  - first:
+      213: -3179136703156584380
+    second: warrior spritesheet calciumtrice_15
+  - first:
+      213: 8810370065995618435
+    second: warrior spritesheet calciumtrice_16
+  - first:
+      213: 3975398464749747371
+    second: warrior spritesheet calciumtrice_17
+  - first:
+      213: -6009149574226670010
+    second: warrior spritesheet calciumtrice_18
+  - first:
+      213: -4818543430345062165
+    second: warrior spritesheet calciumtrice_19
+  - first:
+      213: -6336178382259147578
+    second: warrior spritesheet calciumtrice_20
+  - first:
+      213: -1994887233289128130
+    second: warrior spritesheet calciumtrice_21
+  - first:
+      213: 77396771849313502
+    second: warrior spritesheet calciumtrice_22
+  - first:
+      213: 5191016174935222826
+    second: warrior spritesheet calciumtrice_23
+  - first:
+      213: -364879270333004409
+    second: warrior spritesheet calciumtrice_24
+  - first:
+      213: -2079751667985920576
+    second: warrior spritesheet calciumtrice_25
+  - first:
+      213: -8263878298955508005
+    second: warrior spritesheet calciumtrice_26
+  - first:
+      213: 2054916649504966999
+    second: warrior spritesheet calciumtrice_27
+  - first:
+      213: 7025426188451237945
+    second: warrior spritesheet calciumtrice_28
+  - first:
+      213: -8807952884672314296
+    second: warrior spritesheet calciumtrice_29
+  - first:
+      213: -7342387332315989797
+    second: warrior spritesheet calciumtrice_30
+  - first:
+      213: -7557370826314249553
+    second: warrior spritesheet calciumtrice_31
+  - first:
+      213: -7443805817581012570
+    second: warrior spritesheet calciumtrice_32
+  - first:
+      213: 2036525924746718586
+    second: warrior spritesheet calciumtrice_33
+  - first:
+      213: -2762275895247422932
+    second: warrior spritesheet calciumtrice_34
+  - first:
+      213: -1363258593989853448
+    second: warrior spritesheet calciumtrice_35
+  - first:
+      213: 9169107695687160719
+    second: warrior spritesheet calciumtrice_36
+  - first:
+      213: -4915086163908850529
+    second: warrior spritesheet calciumtrice_37
+  - first:
+      213: 4860994980106215953
+    second: warrior spritesheet calciumtrice_38
+  - first:
+      213: 9176711692286573086
+    second: warrior spritesheet calciumtrice_39
+  - first:
+      213: -8506242644107535916
+    second: warrior spritesheet calciumtrice_40
+  - first:
+      213: -7270022008023726733
+    second: warrior spritesheet calciumtrice_41
+  - first:
+      213: -7803082629900273325
+    second: warrior spritesheet calciumtrice_42
+  - first:
+      213: 4649875140280813580
+    second: warrior spritesheet calciumtrice_43
+  - first:
+      213: 5038526829093048846
+    second: warrior spritesheet calciumtrice_44
+  - first:
+      213: -8716148180145685133
+    second: warrior spritesheet calciumtrice_45
+  - first:
+      213: -8460432001331096315
+    second: warrior spritesheet calciumtrice_46
+  - first:
+      213: 7627587936038655621
+    second: warrior spritesheet calciumtrice_47
+  - first:
+      213: -4037551356932422254
+    second: warrior spritesheet calciumtrice_48
+  - first:
+      213: 2493206716271146818
+    second: warrior spritesheet calciumtrice_49
+  - first:
+      213: 4222162205206535871
+    second: warrior spritesheet calciumtrice_50
+  - first:
+      213: -6643984047877795407
+    second: warrior spritesheet calciumtrice_51
+  - first:
+      213: -5430457232695416193
+    second: warrior spritesheet calciumtrice_52
+  - first:
+      213: -795857431047802351
+    second: warrior spritesheet calciumtrice_53
+  - first:
+      213: 5444991930172890051
+    second: warrior spritesheet calciumtrice_54
+  - first:
+      213: -648824709246995719
+    second: warrior spritesheet calciumtrice_55
+  - first:
+      213: -1820918540916966722
+    second: warrior spritesheet calciumtrice_56
+  - first:
+      213: -1842350170415023777
+    second: warrior spritesheet calciumtrice_57
+  - first:
+      213: 7894577277977073231
+    second: warrior spritesheet calciumtrice_58
+  - first:
+      213: 1184841237169207289
+    second: warrior spritesheet calciumtrice_59
+  - first:
+      213: 1163605158451695798
+    second: warrior spritesheet calciumtrice_60
+  - first:
+      213: 2871555884891201576
+    second: warrior spritesheet calciumtrice_61
+  - first:
+      213: -3973420181566052626
+    second: warrior spritesheet calciumtrice_62
+  - first:
+      213: -6564542176478370004
+    second: warrior spritesheet calciumtrice_63
+  - first:
+      213: 7253545472656261616
+    second: warrior spritesheet calciumtrice_64
+  - first:
+      213: 5473009572102544895
+    second: warrior spritesheet calciumtrice_65
+  - first:
+      213: 7895875382373260165
+    second: warrior spritesheet calciumtrice_66
+  - first:
+      213: -5397304588716416867
+    second: warrior spritesheet calciumtrice_67
+  - first:
+      213: -8835437480313582683
+    second: warrior spritesheet calciumtrice_68
+  - first:
+      213: 5777267213707623289
+    second: warrior spritesheet calciumtrice_69
+  - first:
+      213: -3331504413372334683
+    second: warrior spritesheet calciumtrice_70
+  - first:
+      213: -4559514742778028485
+    second: warrior spritesheet calciumtrice_71
+  - first:
+      213: -6473808792371069124
+    second: warrior spritesheet calciumtrice_72
+  - first:
+      213: 1284062350140147281
+    second: warrior spritesheet calciumtrice_73
+  - first:
+      213: -4969243345173922361
+    second: warrior spritesheet calciumtrice_74
+  - first:
+      213: -3475515327953937578
+    second: warrior spritesheet calciumtrice_75
+  - first:
+      213: -2796352854019125660
+    second: warrior spritesheet calciumtrice_76
+  - first:
+      213: 8797042355480315115
+    second: warrior spritesheet calciumtrice_77
+  - first:
+      213: -5695443581122162638
+    second: warrior spritesheet calciumtrice_78
+  - first:
+      213: 7712497640666412186
+    second: warrior spritesheet calciumtrice_79
+  - first:
+      213: -9028405615646784765
+    second: warrior spritesheet calciumtrice_80
+  - first:
+      213: -6489065039671327062
+    second: warrior spritesheet calciumtrice_81
+  - first:
+      213: 4827192134591688076
+    second: warrior spritesheet calciumtrice_82
+  - first:
+      213: -5164566689437889240
+    second: warrior spritesheet calciumtrice_83
+  - first:
+      213: 2661791125607604663
+    second: warrior spritesheet calciumtrice_84
+  - first:
+      213: -2074355907009489641
+    second: warrior spritesheet calciumtrice_85
+  - first:
+      213: -5300628878124170273
+    second: warrior spritesheet calciumtrice_86
+  - first:
+      213: -8447630662442281841
+    second: warrior spritesheet calciumtrice_87
+  - first:
+      213: 4941766952341986354
+    second: warrior spritesheet calciumtrice_88
+  - first:
+      213: -8071416139703670618
+    second: warrior spritesheet calciumtrice_89
+  - first:
+      213: 2539368523588868780
+    second: warrior spritesheet calciumtrice_90
+  - first:
+      213: 6689973895834484328
+    second: warrior spritesheet calciumtrice_91
+  - first:
+      213: 8640693874157235045
+    second: warrior spritesheet calciumtrice_92
+  - first:
+      213: -4464068983494993688
+    second: warrior spritesheet calciumtrice_93
+  - first:
+      213: 3788328966000369972
+    second: warrior spritesheet calciumtrice_94
+  - first:
+      213: 8914143860818509120
+    second: warrior spritesheet calciumtrice_95
+  - first:
+      213: 7960107611773096366
+    second: warrior spritesheet calciumtrice_96
+  - first:
+      213: 3661819457224128284
+    second: warrior spritesheet calciumtrice_97
+  - first:
+      213: 1296902165054355363
+    second: warrior spritesheet calciumtrice_98
+  - first:
+      213: -5115843092691655741
+    second: warrior spritesheet calciumtrice_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a1505e738f9c510800000000000000
+      internalID: 1570058864064535191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f94b1a2b3ea5370800000000000000
+      internalID: 8312206418622324566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcfc06ad018ac8e0800000000000000
+      internalID: -1672382415994290955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c2135132b08e830800000000000000
+      internalID: 4100539706028141669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7893703af355920800000000000000
+      internalID: 2978356698008881064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9620dc3cfa99440800000000000000
+      internalID: 4943175321508800928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8477747c13033c3b0800000000000000
+      internalID: -5493494130106992824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a58e33aa82b59120800000000000000
+      internalID: 2420036683295524263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978baf8bf56dd5e70800000000000000
+      internalID: 9105669728226687097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12208f1a3a7829a50800000000000000
+      internalID: 6526427946880074273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11377bd008aad3b70800000000000000
+      internalID: 8880441507207148305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e272dd2b252ab7100800000000000000
+      internalID: 106857492245194542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c609d1beb915a0800000000000000
+      internalID: -6549994511974088665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0f4f4c9f1eed9b0800000000000000
+      internalID: -5053353268995624719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb0a95cd4c522460800000000000000
+      internalID: 7215431042098400204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44002f3230071e3d0800000000000000
+      internalID: -3179136703156584380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388576b45e8b44a70800000000000000
+      internalID: 8810370065995618435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacba0457d37b2730800000000000000
+      internalID: 3975398464749747371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e8702dc463b9ca0800000000000000
+      internalID: -6009149574226670010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be88d73a748112db0800000000000000
+      internalID: -4818543430345062165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc2fe3f45f5118a0800000000000000
+      internalID: -6336178382259147578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37f6d471acb054e0800000000000000
+      internalID: -1994887233289128130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc17d434f7f21100800000000000000
+      internalID: 77396771849313502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a225a35b13a0840800000000000000
+      internalID: 5191016174935222826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785c5e1ac30bfeaf0800000000000000
+      internalID: -364879270333004409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd4ca080ec3323e0800000000000000
+      internalID: -2079751667985920576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd692b3987ec05d80800000000000000
+      internalID: -8263878298955508005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75987c82ec7848c10800000000000000
+      internalID: 2054916649504966999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930dc5665e35f7160800000000000000
+      internalID: 7025426188451237945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844cab6948dd3c580800000000000000
+      internalID: -8807952884672314296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd83af57f999a1a90800000000000000
+      internalID: -7342387332315989797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa83ad2643de1790800000000000000
+      internalID: -7557370826314249553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f8124c0a42b890800000000000000
+      internalID: -7443805817581012570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7de660e981334c10800000000000000
+      internalID: 2036525924746718586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a372c55bc6aa9d0800000000000000
+      internalID: -2762275895247422932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe7c38188bb41de0800000000000000
+      internalID: -1363258593989853448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83dbb48ed63f3f70800000000000000
+      internalID: 9169107695687160719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c86c7dc2b1acbb0800000000000000
+      internalID: -4915086163908850529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11220340e29b57340800000000000000
+      internalID: 4860994980106215953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a3ae0f9aa3a5f70800000000000000
+      internalID: 9176711692286573086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9d0b81261c3f980800000000000000
+      internalID: -8506242644107535916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375497e7081bb1b90800000000000000
+      internalID: -7270022008023726733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359f5cbc0b1e5b390800000000000000
+      internalID: -7803082629900273325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c088b52ddcca78040800000000000000
+      internalID: 4649875140280813580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02dd5fa4717ce540800000000000000
+      internalID: 5038526829093048846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dbfb809650a0780800000000000000
+      internalID: -8716148180145685133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505105a8be1869a80800000000000000
+      internalID: -8460432001331096315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58693aca0d2aad960800000000000000
+      internalID: 7627587936038655621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29585a7ce6cb7f7c0800000000000000
+      internalID: -4037551356932422254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247b5f28c46a99220800000000000000
+      internalID: 2493206716271146818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe5a69d722289a30800000000000000
+      internalID: 4222162205206535871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1d1e4b5b3dbc3a0800000000000000
+      internalID: -6643984047877795407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2d3d2be323a4b0800000000000000
+      internalID: -5430457232695416193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1127a8212eb84f4f0800000000000000
+      internalID: -795857431047802351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbd2dacf4f709b40800000000000000
+      internalID: 5444991930172890051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f236d35d59eef6f0800000000000000
+      internalID: -648824709246995719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebab8b31c3ccab6e0800000000000000
+      internalID: -1820918540916966722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59388cf748ae66e0800000000000000
+      internalID: -1842350170415023777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4691b1053c2f8d60800000000000000
+      internalID: 7894577277977073231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f774b0e3d6617010800000000000000
+      internalID: 1184841237169207289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b053500ab4f52010800000000000000
+      internalID: 1163605158451695798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8206f97fcd0d9d720800000000000000
+      internalID: 2871555884891201576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6236e95639bd8c0800000000000000
+      internalID: -3973420181566052626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27efe1cbaf06e4a0800000000000000
+      internalID: -6564542176478370004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1c1db2d25c9a460800000000000000
+      internalID: 7253545472656261616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd1c75653904fb40800000000000000
+      internalID: 5473009572102544895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b1c1d73d8c39d60800000000000000
+      internalID: 7895875382373260165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90e8fc921ce815b0800000000000000
+      internalID: -5397304588716416867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab8cbe7c68326580800000000000000
+      internalID: -8835437480313582683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bbd8debe9fc2050800000000000000
+      internalID: 5777267213707623289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adbb49136e14c1d0800000000000000
+      internalID: -3331504413372334683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1f80bf7959b0c0800000000000000
+      internalID: -4559514742778028485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ffbeaf3396826a0800000000000000
+      internalID: -6473808792371069124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1568e8977e7e1d110800000000000000
+      internalID: 1284062350140147281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd3f687183b90bb0800000000000000
+      internalID: -4969243345173922361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b51e9293d74cfc0800000000000000
+      internalID: -3475515327953937578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e4a8d15eb5139d0800000000000000
+      internalID: -2796352854019125660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be44870e96f551a70800000000000000
+      internalID: 8797042355480315115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2305fec1d38b5f0b0800000000000000
+      internalID: -5695443581122162638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94b5faddbb480b60800000000000000
+      internalID: 7712497640666412186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3034b375de8a4b280800000000000000
+      internalID: -9028405615646784765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa60cf91ab532f5a0800000000000000
+      internalID: -6489065039671327062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8da5ecbba1adf240800000000000000
+      internalID: 4827192134591688076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d4d3185f5c358b0800000000000000
+      internalID: -5164566689437889240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1e02c0de490f420800000000000000
+      internalID: 2661791125607604663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71557f00b486633e0800000000000000
+      internalID: -2074355907009489641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd34b398e126076b0800000000000000
+      internalID: -5300628878124170273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f841e638bacf3ca80800000000000000
+      internalID: -8447630662442281841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cdb1d4cdea49440800000000000000
+      internalID: 4941766952341986354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8ab9ef8c19cff80800000000000000
+      internalID: -8071416139703670618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa9252d736ad3320800000000000000
+      internalID: 2539368523588868780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eb9d130df87dc50800000000000000
+      internalID: 6689973895834484328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b29065c49e9e770800000000000000
+      internalID: 8640693874157235045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e811f149e07c02c0800000000000000
+      internalID: -4464068983494993688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43166c68f19d29430800000000000000
+      internalID: 3788328966000369972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04df0dcbc9665bb70800000000000000
+      internalID: 8914143860818509120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea15e9dc2bbf77e60800000000000000
+      internalID: 7960107611773096366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17357b256561d230800000000000000
+      internalID: 3661819457224128284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7ff78d5a58ff110800000000000000
+      internalID: 1296902165054355363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior spritesheet calciumtrice_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c36a75efcfd009b0800000000000000
+      internalID: -5115843092691655741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
